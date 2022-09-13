@@ -9,6 +9,8 @@
 <ins> Hyun Namkoong </ins><br />
 <ins> Ibrahim Shoukry </ins><br />
 <ins> Jacob Willemsz </ins><br />
+<ins> Divya Krishnan </ins><br />
+
 ## Features:
 
 - Not Implemented:
