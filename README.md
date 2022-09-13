@@ -3,12 +3,12 @@
 
 # Name: 
 ## Leads:
-<ins> Robin Lee Simpson </ins>
-<ins> Cheuk Ki Wong </ins>
+<ins> Robin Lee Simpson </ins><br />
+<ins> Cheuk Ki Wong </ins><br />
 ## Developers:
-<ins> Fulati Aizihaer </ins>
-<ins> Hyun Namkoong </ins>
-<ins> Ibrahim Shoukry </ins>
+<ins> Fulati Aizihaer </ins><br />
+<ins> Hyun Namkoong </ins><br />
+<ins> Ibrahim Shoukry </ins><br />
 
 ## Features:
 
