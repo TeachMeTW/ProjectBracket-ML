@@ -1,11 +1,10 @@
 
 # Facial Recognition Machine Learning Project Bracket
 
-# Name: 
-## Leads:
+# Leads:
 <ins> Robin Lee Simpson </ins><br />
 <ins> Cheuk Ki Wong </ins><br />
-## Developers:
+# Developers:
 <ins> Fulati Aizihaer </ins><br />
 <ins> Hyun Namkoong </ins><br />
 <ins> Ibrahim Shoukry </ins><br />
