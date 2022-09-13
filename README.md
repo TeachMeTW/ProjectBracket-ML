@@ -27,10 +27,11 @@
 
 <br><br>
 
-- Bugs
+- Bugs:
 
 
 <br><br>
 
 # Info:
 
+Facial Recognition. More to be added here.
