@@ -1,5 +1,5 @@
 
-# Facial Recognition Machine Learning Project Bracket
+# Machine Learning Project Bracket
 
 # Leads:
 <ins> Robin Lee Simpson </ins><br />
@@ -10,7 +10,8 @@
 <ins> Ibrahim Shoukry </ins><br />
 <ins> Jacob Willemsz </ins><br />
 <ins> Divya Krishnan </ins><br />
-<ins>Shizuka Takao </ins><br />
+<ins> Shizuka Takao </ins><br />
+<ins> Frederick Arne Goh </ins><br />
 
 
 ## Features:
@@ -37,4 +38,4 @@
 
 # Info:
 
-Facial Recognition. More to be added here.
+Facial Recognition or other kinds. More to be added here.
