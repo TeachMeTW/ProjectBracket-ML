@@ -12,6 +12,8 @@
 <ins> Divya Krishnan </ins><br />
 <ins> Shizuka Takao </ins><br />
 <ins> Frederick Arne Goh </ins><br />
+<ins> Brian Chung </ins><br />
+<ins> Wen Zhang </ins><br />
 
 
 ## Features:
