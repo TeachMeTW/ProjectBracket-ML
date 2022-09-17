@@ -7,7 +7,6 @@ app = flask.Flask(__name__)
 def init():
     return "bruh"
 
-print('stuff')
 
 if __name__ == "__main__":
     app.run(debug=True)
