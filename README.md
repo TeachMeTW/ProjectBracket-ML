@@ -19,7 +19,9 @@
 ## Features:
 
 - Not Implemented:
-
+    - Data (Training Data)
+    - Scraper (if needed)
+    - Trainer
 
 <br><br>
 
