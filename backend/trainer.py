@@ -31,3 +31,5 @@ def gatherCameraData():
 # if you're gonna make a scraper 
 def gatherWebData():
     return
+
+# Use LabelMe to label images! Make sure it goes into assets!
