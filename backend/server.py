@@ -1,12 +1,8 @@
-import flask
+# This is going to be our main...
 
+import trainer
 
-app = flask.Flask(__name__)
-
-@app.route("/dab")
-def init():
-    return "bruh"
-
-
-if __name__ == "__main__":
-    app.run(debug=True)
+def main():
+    trainer.gatherCameraData()
+    
+main()
