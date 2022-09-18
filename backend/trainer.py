@@ -3,6 +3,9 @@ import uuid
 import time
 import os
 
+# for scraper
+import bs4 
+
 def gatherCameraData():
     img_path = os.path.join('ProjectBracket-ML','backend','assets', 'data', 'images')
     
@@ -23,3 +26,8 @@ def gatherCameraData():
             break
     captureImage.release()
     cv2.destroyAllWindows()
+    return
+
+# if you're gonna make a scraper 
+def gatherWebData():
+    return
