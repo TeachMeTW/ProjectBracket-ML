@@ -1,22 +1,3 @@
-"""
-===========
-Eigenvalues
-===========
-
-Create an G{n,m} random graph and compute the eigenvalues.
-"""
-import matplotlib.pyplot as plt
-import networkx as nx
-import numpy.linalg
-
-n = 1000  # 1000 nodes
-m = 5000  # 5000 edges
-G = nx.gnm_random_graph(n, m, seed=5040)  # Seed for reproducibility
-
-L = nx.normalized_laplacian_matrix(G)
-e = numpy.linalg.eigvals(L.A)
-print("Largest eigenvalue:", max(e))
-print("Smallest eigenvalue:", min(e))
-plt.hist(e, bins=100)  # histogram with 100 bins
-plt.xlim(0, 2)  # eigenvalues between 0 and 2
-plt.show()
+version https://git-lfs.github.com/spec/v1
+oid sha256:367199546788f426a31e8948354d5953edc7b97a786d7aa4469a401dc6ba0bb2
+size 566

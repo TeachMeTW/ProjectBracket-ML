@@ -1,14 +1,3 @@
-"""
-===========
-Simple Path
-===========
-
-Draw a graph with matplotlib.
-"""
-import matplotlib.pyplot as plt
-import networkx as nx
-
-G = nx.path_graph(8)
-pos = nx.spring_layout(G, seed=47)  # Seed layout for reproducibility
-nx.draw(G, pos=pos)
-plt.show()
+version https://git-lfs.github.com/spec/v1
+oid sha256:2507dafa7f2f2999e205aef6f66d5adaeb98bf2dae0bcd508efdca9f0ab263c0
+size 266

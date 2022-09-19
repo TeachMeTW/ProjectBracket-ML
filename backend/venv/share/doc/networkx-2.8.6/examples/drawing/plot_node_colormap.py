@@ -1,15 +1,3 @@
-"""
-=============
-Node Colormap
-=============
-
-Draw a graph with matplotlib, color by degree.
-"""
-
-import matplotlib.pyplot as plt
-import networkx as nx
-
-G = nx.cycle_graph(24)
-pos = nx.circular_layout(G)
-nx.draw(G, pos, node_color=range(24), node_size=800, cmap=plt.cm.Blues)
-plt.show()
+version https://git-lfs.github.com/spec/v1
+oid sha256:9207dcb79e0230fce102d58644b716f209e5b0e9cf5b708d89002978ae56f3f4
+size 303
