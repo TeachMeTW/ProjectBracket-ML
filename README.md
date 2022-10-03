@@ -43,9 +43,16 @@
 <br><br>
 
 # Info:
-
+<br><br>
+### Github and Branches by Robin
 https://user-images.githubusercontent.com/80879010/193486830-67dd6107-c373-4c51-b47d-03d24045ee4e.mp4
+<br><br>
 
-
-
+### OpenCV, Images, and LabelMe by Robin
 https://user-images.githubusercontent.com/80879010/193486844-38023b06-0b97-4745-87a9-5f5e9d4bddcd.mp4
+<br><br>
+
+### Intro to React by Cheuk
+https://user-images.githubusercontent.com/80879010/193487117-6953ae40-6bb7-48cb-ab98-84672b5b5300.mp4
+<br><br>
+
