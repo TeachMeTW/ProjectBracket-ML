@@ -34,6 +34,9 @@
 
 <br><br>
 
+
+
+
 - Bugs:
 
 
@@ -41,11 +44,8 @@
 
 # Info:
 
-https://user-images.githubusercontent.com/80879010/193486711-f347bb48-eb16-469c-bb61-a819eff72efb.mp4
+https://user-images.githubusercontent.com/80879010/193486830-67dd6107-c373-4c51-b47d-03d24045ee4e.mp4
 
 
 
-https://user-images.githubusercontent.com/80879010/193486731-d4b1592f-3b42-4adb-9991-4c541d6a5119.mp4
-
-
-
+https://user-images.githubusercontent.com/80879010/193486844-38023b06-0b97-4745-87a9-5f5e9d4bddcd.mp4
