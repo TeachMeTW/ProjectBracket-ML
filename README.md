@@ -41,4 +41,4 @@
 
 # Info:
 
-Facial Recognition or other kinds. More to be added here.
+[![Intro to React by Cheuk](https://i.ytimg.com/an_webp/W49yz0yF1lQ/mqdefault_6s.webp?du=3000&sqp=CNTb6JkG&rs=AOn4CLB1rwF7TEjXe_k343_Aq0vtiAfw4w)](https://www.youtube.com/watch?v=W49yz0yF1lQ)
