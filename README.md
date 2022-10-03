@@ -41,4 +41,11 @@
 
 # Info:
 
-[![Intro to React by Cheuk](https://i.ytimg.com/an_webp/W49yz0yF1lQ/mqdefault_6s.webp?du=3000&sqp=CNTb6JkG&rs=AOn4CLB1rwF7TEjXe_k343_Aq0vtiAfw4w)](https://www.youtube.com/watch?v=W49yz0yF1lQ)
+https://user-images.githubusercontent.com/80879010/193486711-f347bb48-eb16-469c-bb61-a819eff72efb.mp4
+
+
+
+https://user-images.githubusercontent.com/80879010/193486731-d4b1592f-3b42-4adb-9991-4c541d6a5119.mp4
+
+
+
