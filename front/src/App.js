@@ -1,10 +1,19 @@
 import './App.css';
 
+import { useState } from "react";
+
 function App() {
 
+  const [imageSrc, setImageSrc] = useState("/NoImage.jpg");
+
+  const updateImage = (event) => {
+    console.log(event.target.files);
+    setImageSrc(URL.createObjectURL(event.target.files[0]));
+  };
+
   const whenSubmit = () => {
-    alert("Thanks for submitting a response")
-  }
+    alert("Thanks for submitting a response");
+  };
 
   return (
 
@@ -19,11 +28,21 @@ function App() {
           </div>
           <div>
             <label>
+              Upload an Image:
+              <input type="file" accept="image/*" name="image upload" onChange={updateImage}/>
+            </label>
+          </div>
+          <div>
+            <label>
               Image Description:
               <input type="text" name="image description" />
             </label>
-            <div><input type="submit" value="Submit" /></div>
           </div>
+          <div>
+            <div>Image Preview:</div>
+            <img src={imageSrc} alt="preview" />
+          </div>
+          <div><input type="submit" value="Submit" /></div>
         </form>
       </p>
 
