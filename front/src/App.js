@@ -5,22 +5,21 @@ import React, { useEffect, useRef, useState } from 'react';
 
 function App() {
 
-
-
   const [num, setNum] = useState(0)
-  var text = "Thanks for submitting a response"
 
   const whenButtonClick = () => {
     setNum(num + 1)
+  }
+
+  const whenSubmit = () => {
+    alert("Thanks for submitting a response")
   }
 
   useEffect(() => {
     document.title = `You clicked ${num} times`
   })
 
-  const whenSubmit = () => {
 
-  }
 
   return (
 
@@ -46,6 +45,7 @@ function App() {
         </div>
 
       </form>
+
 
     </div>
 
