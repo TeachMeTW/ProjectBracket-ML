@@ -5,8 +5,6 @@ import React, { useState } from 'react';
 
 function App() {
 
-  let noImage = true;
-
   const whenSubmit = () => {
     let msg;
     
@@ -42,9 +40,10 @@ function App() {
   };
 
   const [imageSrc, setImageSrc] = useState("/NoImage.jpg");
+  const [noImage, setNoImage] = useState(true);
 
   const updateImage = (event) => {
-    noImage = false;
+    setNoImage(false);
     setImageSrc(URL.createObjectURL(event.target.files[0]));
   };
 
