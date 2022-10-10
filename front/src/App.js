@@ -28,9 +28,15 @@ function App() {
     setIsOpen(!isOpen);
   }
 
+  const [imageSrc, setImageSrc] = useState("/NoImage.jpg");
+
+  const updateImage = (event) => {
+    setImageSrc(URL.createObjectURL(event.target.files[0]));
+  };
+
   return (
 
-    <div>
+    <div className='App'>
       <h1 className='center'>Machine learning Image Upload!</h1> 
       <input
           type="button"
@@ -60,10 +66,44 @@ function App() {
           handleClose={togglePopup}
         />}
 
+        <p>
+        <form onSubmit={whenSubmit}>
+          <div>
+            <label>
+              Username:
+              <input type="text" name="name" />
+            </label>
+          </div>
+
+          <div>
+            <label>
+              Upload an Image:
+              <input type="file" accept="image/*" name="image upload" onChange={updateImage}/>
+            </label>
+          </div>
+
+          <div>
+            <label>
+              Image Description:
+              <input type="text" name="image description" />
+            </label>
+          </div>
+
+          <div>
+            <div>Image Preview:</div>
+            <img src={imageSrc} alt="preview" />
+          </div>
+          
+          <div><input type="submit" value="Submit" /></div>
+        </form>
+      </p>
+
 
     </div>
 
   );
+
+
 }
 
 export default App;
