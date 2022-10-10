@@ -1,14 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
 import './CssSyleSheets/PopUpCss.css';
 
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useState } from 'react';
 
 function App() {
 
+  let noImage = true;
 
   const whenSubmit = () => {
-    alert("Thanks for submitting a response")
+    let msg;
+    
+    // TODO: Store username and text input for submission
+    // TODO: Validated username/text input
+
+    if (!isOpen && noImage) {
+      msg = "Please upload an image.";
+    }
+    else {
+      msg = "Thanks for submitting a response.";
+      // TODO: Submission code here
+    }
+    alert(msg);
   }
 
   //problem pop up 
@@ -27,11 +39,12 @@ function App() {
  
   const togglePopup = () => {
     setIsOpen(!isOpen);
-  }
+  };
 
   const [imageSrc, setImageSrc] = useState("/NoImage.jpg");
 
   const updateImage = (event) => {
+    noImage = false;
     setImageSrc(URL.createObjectURL(event.target.files[0]));
   };
 
@@ -67,7 +80,7 @@ function App() {
           handleClose={togglePopup}
         />}
 
-        <p>
+      <p>
         <form onSubmit={whenSubmit}>
           <div>
             <label>
