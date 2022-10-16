@@ -16,6 +16,7 @@
 <ins> Brian Chung </ins><br />
 <ins> Wen Zhang </ins><br />
 <ins> Ashley Freeman </ins><br />
+<ins> Masahiro Yamaguchi </ins><br />
 
 ## Features:
 
