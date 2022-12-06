@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2afc2d60-57eb-11ed-8d2b-0695fd3131fe.jpg</filename>
+	<path>C:\Users\Robin\Desktop\FR\back\assets\unsorted\images\train\2afc2d60-57eb-11ed-8d2b-0695fd3131fe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maskedface</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>580</xmin>
+			<ymin>84</ymin>
+			<xmax>1135</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+</annotation>

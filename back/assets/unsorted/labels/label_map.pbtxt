@@ -1,0 +1,60 @@
+item { 
+	name:'airpods'
+	id:1
+}
+item { 
+	name:'book'
+	id:2
+}
+item { 
+	name:'bottle'
+	id:3
+}
+item { 
+	name:'carbonmonitor'
+	id:4
+}
+item { 
+	name:'cat'
+	id:5
+}
+item { 
+	name:'maskedface'
+	id:6
+}
+item { 
+	name:'masked'
+	id:6
+}
+item { 
+	name:'microphone'
+	id:7
+}
+item { 
+	name:'multimeter'
+	id:8
+}
+item { 
+	name:'pencil'
+	id:9
+}
+item { 
+	name:'phone'
+	id:10
+}
+item { 
+	name:'face'
+	id:11
+}
+item { 
+	name:'watch'
+	id:12
+}
+item { 
+	name:'keyboard'
+	id:13
+}
+item { 
+	name:'glasses'
+	id:14
+}

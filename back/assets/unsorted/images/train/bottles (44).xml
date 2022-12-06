@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unlabeled</folder>
+	<filename>bottles (44).jpg</filename>
+	<path>C:\Users\Robin\Desktop\FR\back\assets\unsorted\images\unlabeled\bottles (44).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1190</xmin>
+			<ymin>757</ymin>
+			<xmax>1252</xmax>
+			<ymax>876</ymax>
+		</bndbox>
+	</object>
+</annotation>

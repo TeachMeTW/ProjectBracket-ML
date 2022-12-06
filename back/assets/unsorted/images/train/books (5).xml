@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unlabeled</folder>
+	<filename>books (5).jpg</filename>
+	<path>C:\Users\Robin\Desktop\FR\back\assets\unsorted\images\unlabeled\books (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>273</ymin>
+			<xmax>560</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+</annotation>

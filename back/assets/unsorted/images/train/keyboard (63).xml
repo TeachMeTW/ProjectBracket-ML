@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unlabeled</folder>
+	<filename>keyboard (63).jpg</filename>
+	<path>C:\Users\Robin\Desktop\FR\back\assets\unsorted\images\unlabeled\keyboard (63).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>816</xmin>
+			<ymin>185</ymin>
+			<xmax>1541</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+</annotation>

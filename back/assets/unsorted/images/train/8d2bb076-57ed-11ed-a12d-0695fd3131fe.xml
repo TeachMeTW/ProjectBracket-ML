@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>8d2bb076-57ed-11ed-a12d-0695fd3131fe.jpg</filename>
+	<path>C:\Users\Robin\Desktop\FR\back\assets\unsorted\images\train\8d2bb076-57ed-11ed-a12d-0695fd3131fe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carbonmonitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>410</ymin>
+			<xmax>680</xmax>
+			<ymax>857</ymax>
+		</bndbox>
+	</object>
+</annotation>

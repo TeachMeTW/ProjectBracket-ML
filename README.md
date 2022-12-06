@@ -4,48 +4,18 @@
 # Leads:
 <ins> Robin Lee Simpson </ins><br />
 <ins> Cheuk Ki Wong </ins><br />
+
 # Developers:
 
-<ins> Divya Krishnan </ins><br />
-<ins> Shruti Sengottuvel </ins><br />
-<ins> Fulati Aizihaer </ins><br />
-<ins> Frederick Arne Goh </ins><br />
-<ins> Ibrahim Shoukry </ins><br />
 <ins> Jacob Willemsz </ins><br />
 <ins> Shizuka Takao </ins><br />
 <ins> Brian Chung </ins><br />
-<ins> Wen Zhang </ins><br />
-<ins> Ashley Freeman </ins><br />
-<ins> Masahiro Yamaguchi </ins><br />
 
-## Features:
-
-- Not Implemented:
-    - Data (Training Data)
-    - Scraper (if needed)
-    - Trainer
-
-<br><br>
-
-- Implemented:
-
-
-<br><br>
-
-- Partly implemented:
-
-
-<br><br>
-
-
-
-
-- Bugs:
-
-
-<br><br>
 
 # Info:
+
+https://docs.google.com/presentation/d/1MHb01XIGkWQ58EfzpMpDEbWxxLS0m2B3ciHeyGaEfUs/edit?usp=sharing
+
 <br><br>
 ### Github and Branches by Robin
 

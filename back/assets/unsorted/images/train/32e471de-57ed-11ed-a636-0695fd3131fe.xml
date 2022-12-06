@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>32e471de-57ed-11ed-a636-0695fd3131fe.jpg</filename>
+	<path>C:\Users\Robin\Desktop\FR\back\assets\unsorted\images\train\32e471de-57ed-11ed-a636-0695fd3131fe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>401</ymin>
+			<xmax>1041</xmax>
+			<ymax>896</ymax>
+		</bndbox>
+	</object>
+</annotation>

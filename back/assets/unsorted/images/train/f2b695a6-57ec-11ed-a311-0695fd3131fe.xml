@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>f2b695a6-57ec-11ed-a311-0695fd3131fe.jpg</filename>
+	<path>C:\Users\Robin\Desktop\FR\back\assets\unsorted\images\train\f2b695a6-57ec-11ed-a311-0695fd3131fe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>728</xmin>
+			<ymin>45</ymin>
+			<xmax>1274</xmax>
+			<ymax>781</ymax>
+		</bndbox>
+	</object>
+</annotation>

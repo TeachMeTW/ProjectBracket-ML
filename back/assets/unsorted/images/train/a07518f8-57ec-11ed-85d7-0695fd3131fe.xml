@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>a07518f8-57ec-11ed-85d7-0695fd3131fe.jpg</filename>
+	<path>C:\Users\Robin\Desktop\FR\back\assets\unsorted\images\train\a07518f8-57ec-11ed-85d7-0695fd3131fe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airpods</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>792</xmin>
+			<ymin>580</ymin>
+			<xmax>1026</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>

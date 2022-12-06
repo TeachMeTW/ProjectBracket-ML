@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1a9234c0-57ef-11ed-a3ff-0695fd3131fe.jpg</filename>
+	<path>C:\Users\Robin\Desktop\FR\back\assets\unsorted\images\train\1a9234c0-57ef-11ed-a3ff-0695fd3131fe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>722</ymin>
+			<xmax>399</xmax>
+			<ymax>978</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00fe1eb1-599d-11ed-9ba3-a8a159416820.jpg</filename>
+	<path>C:\Users\Robin\Desktop\FR\back\assets\unsorted\images\train\00fe1eb1-599d-11ed-9ba3-a8a159416820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>masked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>995</xmin>
+			<ymin>574</ymin>
+			<xmax>1168</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+</annotation>
